@@ -10,7 +10,7 @@ Implementation of the paper under same title  [paper](http://proceedings.mlr.pre
 
 
 ## To Train:
-Simply Run main_gan_mode jupyter notebook. It includes both preprocessing of the data as well as training
+Simply Run reco_gan_rl jupyter notebook. It includes both preprocessing of the data as well as training
 
 ## To DO:
 1. Add LSTM Model
